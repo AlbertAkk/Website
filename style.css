@@ -435,6 +435,9 @@ Countdown Timer
   place-items: center;
   text-align: center;
 }
+.deadline-format:first-child{
+  padding: 8px;
+}
 .deadline-format span {
   display: block;
   text-transform: uppercase;
@@ -447,7 +450,9 @@ Countdown Timer
   letter-spacing: var(--spacing);
 }
 
-
+.timePad{
+  padding: 3px;
+}
 
 
 
