@@ -69,7 +69,7 @@ const menu = [
       title: "Помидоры",
       category: "Овощи",
       price: 185,
-      img: "../SITE/img/tomatoes.jpg",
+      img: "../img/tomatoes.jpg",
     },
     {
       id: 2,
